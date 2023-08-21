@@ -1,5 +1,5 @@
 # BombermanLikeGame
- BombermanLike Game made with Unity.
+ BombermanLike Game made with Unity. Made with using LeoECS.
 
 ToDo list:
 - Animations
